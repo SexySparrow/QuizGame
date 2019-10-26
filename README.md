@@ -1,4 +1,4 @@
-Simple Quiz game made with simple C, made for Linux
+Simple Quiz game made with C, for Linux
 
 # Trivia Game - Project made by Adrian Brabete
 Faculty of Automation and Computers 1st year
