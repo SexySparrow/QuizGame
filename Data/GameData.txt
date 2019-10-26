@@ -1,0 +1,91 @@
+12100
+Esti gata sa incepi?
+A)DA                
+B)NU                
+C)NU                
+D)NU                
+1
+Cat face 1+1?       
+A)1          
+B)3          
+C)4          
+D)2          
+4
+Valoarea aprox. a lui Pi este?
+A)1.7          
+B)3.14          
+C)2.25          
+D)4          
+2
+Al cui caine este Scooby Doo?  
+A)Freddie          
+B)Shaggy          
+C)Daphne          
+D)Velma          
+2
+In ce procent este Oxigenul in aer?
+A)21%          
+B)15%          
+C)16%          
+D)75%          
+1
+Care a fost capitala bizantinilor?  
+A)Bizantium          
+B)Jerusalim          
+C)Constantinopol          
+D)Atena          
+3
+Care a fost numele initial al lui Muhammad Ali?
+A)Cassius Clay          
+B)Jeff                  
+C)Sam Longford           
+D)Muhammad John          
+1
+Primul model Dacia a fost?                      
+A)100          
+B)1000          
+C)1310          
+D)1100          
+4
+Care este numarul de sateliti ai planetei Venus?
+A)1          
+B)0          
+C)5          
+D)2          
+2
+Inaite sa devina o gaura neagra o stea devine?  
+A)5GANG          
+B)supernova          
+C)protoni          
+D)stea neutronica          
+2
+Perioada Hidrogenului este?                   
+A)1                         
+B)3                        
+C)4                           
+D)2                              
+1
+Romania a intrat in WW1 in anul?              
+A)1918                      
+B)1910                      
+C)1916                      
+D)1914                      
+3
+Cate sfarcuri avea Hitler?                    
+A)5                         
+B)8                         
+C)1                         
+D)2                         
+4
+Care e cel mai bun meme show de pe Youtube?   
+A)Meme review          
+B)MEME REVIEW          
+C)mEmE reVieW          
+D)Option 4          
+5
+FELICITARI!!                                  
+Raspuns Corect =            
+Raspuns Gresit =            
+Scor =                      
+Enter to exit.              
+0
